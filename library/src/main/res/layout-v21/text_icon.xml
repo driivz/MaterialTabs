@@ -25,10 +25,10 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:gravity="center"
+        android:lines="2"
         android:textAlignment="center"
-        android:ellipsize="end"
-        android:maxLines="1"
         android:textAllCaps="true"
         android:textSize="14sp"/>
+
 
 </RelativeLayout>
